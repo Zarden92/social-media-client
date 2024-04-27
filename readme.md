@@ -2,11 +2,11 @@
 
 ## Description 📝
 
-- This repository contains the code for performing unit tests and end-to-end (E2E) tests on an existing social media platform. The primary focus of this assignment is to ensure the reliability and functionality of the login and logout features.
+- This repository hosts the codebase dedicated to executing unit tests and end-to-end (E2E) tests on a pre-existing social media platform. The primary objective is to ensure the reliability and functionality of critical features, notably the login and logout functionalities for this assignment.
 
 ## Goal 🎯
 
-- The goal of this assignment is to familiarize oneself with writing unit tests and E2E tests for web applications, specifically targeting the login and logout functionalities. Additionally, it serves as an opportunity to gain proficiency in using essential development tools such as Git for version control, npm packages for dependency management, and various testing frameworks and tools.
+- The primary aim of this assignment is to get used to write unit tests and E2E tests tailored for web applications, in this case for the login and logout functionality of the premade project. Additionally, it provides an opportunity to enhance familiarity with essential development tools such as Git for version control, npm packages for dependency management, and various testing frameworks and tools.
 
 🛠️ Technologies in this Assignment:
 
@@ -52,24 +52,4 @@
 ```
 4. Run Unit Tests and e2e tests:
    npm run test-unit, npm run test-e2e
-```
-
-markdown
-
-## Getting Started 🚀
-
-```bash
-1. Clone the Repository:
-   git clone https://github.com/yourusername/social-media-testing.git
-
-bash
-
-2. Install Dependencies:
-   npm install
-
-bash
-
-3. Run Unit Tests and E2E Tests:
-   npm run test-unit, npm run test-e2e
-
 ```
