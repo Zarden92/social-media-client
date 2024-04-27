@@ -2,11 +2,11 @@
 
 ## Description 📝
 
-- This repository hosts the codebase dedicated to executing unit tests and end-to-end (E2E) tests on a pre-existing social media platform. The primary objective is to ensure the reliability and functionality of critical features, notably the login and logout functionalities for this assignment.
+- This repository contains code for running unit tests and end-to-end (E2E) tests on an existing social media platform. The main goal is to verify the reliability and functionality of key features, such as login and logout. Additionally, it serves as an opportunity to learn terminal commands for installing ESLint, Jest, Cypress, Prettier, and Husky
 
 ## Goal 🎯
 
-- The primary aim of this assignment is to get used to write unit tests and E2E tests tailored for web applications, in this case for the login and logout functionality of the premade project. Additionally, it provides an opportunity to enhance familiarity with essential development tools such as Git for version control, npm packages for dependency management, and various testing frameworks and tools.
+- The primary aim of this assignment is to get used to write unit tests and E2E tests, in this case for the login and logout functionality of a premade project. Additionally, it provides an opportunity to enhance familiarity with essential development tools such as Git for version control, npm packages for dependency management, and various testing frameworks and tools.
 
 # Technologies in this Assignment 🛠️ :
 
@@ -30,7 +30,7 @@ Other:
 
 Pre-built Technologies:
 
-- **HTML, JavaScript, CSS/Sass, and Bootstrap**
+- **HTML, JavaScript, CSS/Sass**
 
 # Getting Started 🚀
 
