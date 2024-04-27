@@ -45,8 +45,8 @@
 ```
 
 ```
-3. Install Dependencies:
-   npm install
+3. Build Sass
+   npm run build
 ```
 
 ```
