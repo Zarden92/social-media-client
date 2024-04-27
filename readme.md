@@ -10,25 +10,25 @@
 
 # Technologies in this Assignment 🛠️ :
 
-## Testing Frameworks:
+Testing Frameworks:
 
 - **Jest**
 - **Cypress**
 
-## Linting & Formatting:
+Linting & Formatting:
 
 - **ESLint**
 - **Prettier**
 
-## Git Hooks:
+Git Hooks:
 
 - **Husky**
 
-## Other:
+Other:
 
 - **Babel**
 
-## Pre-built Technologies:
+Pre-built Technologies:
 
 - **HTML, JavaScript, CSS/Sass, and Bootstrap**
 
