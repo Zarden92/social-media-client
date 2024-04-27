@@ -8,7 +8,7 @@
 
 - The primary aim of this assignment is to get used to write unit tests and E2E tests tailored for web applications, in this case for the login and logout functionality of the premade project. Additionally, it provides an opportunity to enhance familiarity with essential development tools such as Git for version control, npm packages for dependency management, and various testing frameworks and tools.
 
-🛠️ Technologies in this Assignment:
+# Technologies in this Assignment 🛠️ :
 
 ## Testing Frameworks:
 
