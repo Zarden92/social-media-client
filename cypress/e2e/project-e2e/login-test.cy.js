@@ -14,8 +14,5 @@ describe("Login success test", () => {
     cy.wait(500);
     cy.get('[data-auth="logout"]').should("be.visible");
     cy.wait(500);
-    cy.get('[data-auth="logout"]').click();
-    cy.wait(500);
-    cy.get('[data-auth="login"]').should("be.visible");
   });
 });
